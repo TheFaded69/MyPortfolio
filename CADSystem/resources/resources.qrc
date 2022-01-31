@@ -1,0 +1,81 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/AngleMeasurer.png</file>
+        <file>icons/DistanceMeasurer.png</file>
+        <file>icons/histogram.png</file>
+        <file>icons/pan.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/zoom.png</file>
+        <file>icons/zoom-in.png</file>
+        <file>icons/zoom-out.png</file>
+        <file>icons/axial.png</file>
+        <file>icons/coronal.png</file>
+        <file>icons/LAYOUT_3D_ONLY.png</file>
+        <file>icons/LAYOUT_CLASSIC_BOTTOM.png</file>
+        <file>icons/LAYOUT_CLASSIC_RIGHT.png</file>
+        <file>icons/LAYOUT_TWO_BY_TWO.png</file>
+        <file>icons/sagittal.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/logo-dgtu.png</file>
+        <file>icons/logo-rosatom.png</file>
+        <file>icons/logo-sechenov.png</file>
+        <file>icons/Controller.png</file>
+        <file>icons/photo2.jpg</file>
+        <file>icons/cuttools/контур.png</file>
+        <file>icons/cuttools/куб.png</file>
+        <file>icons/cuttools/обрезать.png</file>
+        <file>icons/cuttools/плоскость.png</file>
+        <file>icons/cuttools/прозрачность.png</file>
+        <file>icons/cuttools/прямоугольник.jpg</file>
+        <file>icons/cuttools/сфера.png</file>
+        <file>icons/implantor/вытягивание.png</file>
+        <file>icons/implantor/головка.png</file>
+        <file>icons/implantor/конус.png</file>
+        <file>icons/implantor/куб.png</file>
+        <file>icons/implantor/ножка.png</file>
+        <file>icons/implantor/переворот.png</file>
+        <file>icons/meshtools/3D измеритель.png</file>
+        <file>icons/meshtools/закрыть контур.png</file>
+        <file>icons/meshtools/заполнение дырки.png</file>
+        <file>icons/meshtools/зеркальное отображение.png</file>
+        <file>icons/meshtools/поперечное сечение1.png</file>
+        <file>icons/meshtools/разделить по размеру.png</file>
+        <file>icons/meshtools/разделить.png</file>
+        <file>icons/meshtools/сглаживание.png</file>
+        <file>icons/meshtools/сохранить.png</file>
+        <file>icons/mirrorer/лево.png</file>
+        <file>icons/mirrorer/поиск объема.png</file>
+        <file>icons/mirrorer/сохранить.png</file>
+        <file>icons/mirrorer/справа.png</file>
+        <file>icons/mounter/загрузить крепление.png</file>
+        <file>icons/mounter/применить.png</file>
+        <file>icons/mounter/создать крепление.png</file>
+        <file>icons/mounter/удалить винт ОТСУТСТВУЕТ.png</file>
+        <file>icons/mounter/удалить винт1 ОТСУТСТВУЕТ.png</file>
+        <file>icons/mounter/удалить крепление.png</file>
+        <file>icons/mounter/удалить.png</file>
+        <file>icons/preprocessor/предпросмотр.png</file>
+        <file>icons/preprocessor/применить.png</file>
+        <file>icons/preprocessor/сбросить до оригинала.png</file>
+        <file>icons/previewdialog/3D измеритель.png</file>
+        <file>icons/previewdialog/гистограмма.png</file>
+        <file>icons/printer/исправить ошибки.png</file>
+        <file>icons/printer/скриншот.png</file>
+        <file>icons/printer/сохранить.png</file>
+        <file>icons/propstree/копировать.png</file>
+        <file>icons/propstree/сохранить все.png</file>
+        <file>icons/propstree/сохранить.png</file>
+        <file>icons/propstree/удалить.png</file>
+        <file>icons/cuttools/krug.png</file>
+        <file>icons/look/исходник.png</file>
+        <file>icons/look/левый боковой.png</file>
+        <file>icons/look/левый косой.png</file>
+        <file>icons/look/правый боковой.png</file>
+        <file>icons/look/правый косой.png</file>
+        <file>icons/look/сверху.png</file>
+        <file>icons/look/сзади.png</file>
+        <file>icons/look/снизу.png</file>
+        <file>icons/look/спереди.png</file>
+        <file>icons/implantor/Тор.png</file>
+    </qresource>
+</RCC>

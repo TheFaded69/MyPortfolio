@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyyaml = "*"
+"h5py" = "*"
+imageio = "*"
+pydicom = "*"
+pyqt-distutils = "*"
+vtk = "*"
+app = {editable = true,path = "."}
+"pyqt5" = "*"
+libcore = {editable = true,path = "./libcore"}
+matplotlib = "*"
+psutil = "*"
+opencv-python = "*"
+tkinter = "*"
+
+[dev-packages]
+pytest = "*"
+
+[requires]
+python_version = "3.6"
